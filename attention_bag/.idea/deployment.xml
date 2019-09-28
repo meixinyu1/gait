@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="10.134.171.250" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="10.134.171.250">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangsx/gait/attention_bag" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="219.224.166.133">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/meixinyu/gait/attention_bag" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="meixinyu@115.25.142.107:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/gait/attention_N_P" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

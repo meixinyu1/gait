@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@2ebd30e9-3c15-4127-8c55-b3962b1c1174" />
+        <remote-mappings server-id="python@sftp://zhangsx@10.134.171.250:22/home/zhangsx/anaconda2/envs/ana3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/zhangsx/gait/attention_N_P" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
